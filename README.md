@@ -1,4 +1,5 @@
 # Frontend Mentor - Article preview component
+Link challenge SOLVED: https://romantic-brahmagupta-78f07f.netlify.app/
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
